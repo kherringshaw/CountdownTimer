@@ -1,0 +1,45 @@
+“The team” (Katharine Herringshaw and Heather Linich) worked together to create the Countdown Timer program as efficiently as possible.  
+
+Through the process of testing, the team became more conscious about code design and learned to think more broadly about the implications 
+
+of each piece of the program.  A bitbucket repository was frequently used to allow team members to easily share and update code throughout 
+
+the process of creating the Countdown Timer program.  
+
+Code refactoring was implemented in order to create straightforward, reusable methods to improve the program’s efficiency and readability 
+
+but also preserve the behavior.  Code was repurposed from the StopWatch program and was refined and reused to build the new Countdown 
+
+Timer program.  The team improved the internal structure of code while keeping behaviors the same and applying aspects of functionality 
+
+from the original code to the Countdown Timer.  
+
+While working through the program, the team found many useful tips and tricks to use in future programming endeavors.  Many shortcuts were 
+
+discovered such as the built in capability in the android manifest to rotate the screen while preserving the functionality of the program. 
+
+The design and layout elements were particularly enjoyable implementations as they allowed one team member in particular to show her 
+
+graphic design prowess.  The team felt that this program required more intuitive coding than previous projects as there was a greater deal 
+
+of user interaction with the finished product.  Features such as disabling buttons when they were not in use and putting in safeguards so 
+
+the user couldn’t accidentally enter invalid data (for example, letters instead of numbers, more than two digits, negative integers, etc.) 
+
+were implemented as the team worked through and tested each new component.
+
+The team stayed very true to the original state diagram for the Countdown Timer program.  The team felt that one of the goals of the 
+
+project was to create a program that adhered to the original plan laid out by the diagram.  As such, the diagram and final code are very 
+
+similar.  Creating the model before the code was beneficial as it created an outline of what the program needed to be and do.  However on 
+
+future projects, the team would take a more fluid approach and start with a diagram as an outline but amend it as needed as the code 
+
+progresses.  The team feels that this approach would help create the simplest and easiest solution for creating code in a program since it 
+
+would enable the programmer to make different choices as he or she dives more deeply into the code.  Looking back, the team would have 
+
+done the diagram a bit differently and possibly created additional states.  Having a separate state for ‘increment’ for instance, could 
+
+increase ease of use and programming and also possibly open the door for additional more complex options and functionality to be added.
